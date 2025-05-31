@@ -7,8 +7,8 @@
 6. Click **Create Space**.
 7. In the Files section, upload the Dockerfile from this repo (or create a file in huggingface named Dockerfile and paste the contents of the Dockerfile of this repo), commit then wait for it to build, start and run.
 8. Click **Embed this Space**. It will show you the url of the space. Visit that url. If you see a ":)" then you are good to go.
-9. Channels playlist is accessible via: **https://username-dproxy.hf.space/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
-   Events playlist is accessible via: **https://username-dproxy.hf.space/playlist/events**. (Refresh playlist from your iptv player to update)
+9. Channels playlist is accessible via: **https://eamovies-dproxy.hf.space/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
+   Events playlist is accessible via: **https://eamovies-dproxy.hf.space/playlist/events**. (Refresh playlist from your iptv player to update)
 10. Enjoy! </br>
 Note: To update the proxy for new changes, click on **Settings** then click on **Factory rebuild**.
 
