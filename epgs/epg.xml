@@ -105,13 +105,6 @@
 <title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
 <desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
 </programme>
-<channel id="33106c37ecc776670305279d5a8acb30">
-<display-name>Sullivan's Crossing Season 3, Episode 6</display-name>
-</channel>
-<programme start="20250618000000 +0000" stop="20250618010000 +0000" channel="33106c37ecc776670305279d5a8acb30">
-<title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
-<desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
-</programme>
 <channel id="721cbbdff29df2d22657cdedba256319">
 <display-name>MasterChef Season 24, Episode 5</display-name>
 </channel>
@@ -165,13 +158,6 @@
 <display-name>Gordon Ramsay's Secret Service Season 1, Episode 5</display-name>
 </channel>
 <programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="450e5d9965f7cfd2688c8f674610cb68">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="8de7958f28c001d5414887f3c634c899">
-<display-name>Children Ruin Everything Season 4, Episode 9</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="8de7958f28c001d5414887f3c634c899">
 <title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
 <desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
 </programme>
@@ -322,34 +308,6 @@
 <title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
 <desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="a479d9e59b1066930b89157d85b7fb3d">
-<display-name>UEFA U19 European Championship - Women : Netherlands U19 vs Spain U19</display-name>
-</channel>
-<programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="a479d9e59b1066930b89157d85b7fb3d">
-<title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
-<desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="a479d9e59b1066930b89157d85b7fb3d">
-<display-name>UEFA U19 European Championship - Women : Netherlands U19 vs Spain U19</display-name>
-</channel>
-<programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="a479d9e59b1066930b89157d85b7fb3d">
-<title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
-<desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="a479d9e59b1066930b89157d85b7fb3d">
-<display-name>UEFA U19 European Championship - Women : Netherlands U19 vs Spain U19</display-name>
-</channel>
-<programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="a479d9e59b1066930b89157d85b7fb3d">
-<title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
-<desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="80e8f7bff11818bfbd28cf0869742ff2">
-<display-name>UEFA U19 European Championship - Women : Portugal U19 vs England U19</display-name>
-</channel>
-<programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="80e8f7bff11818bfbd28cf0869742ff2">
-<title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
-<desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="80e8f7bff11818bfbd28cf0869742ff2">
 <display-name>UEFA U19 European Championship - Women : Portugal U19 vs England U19</display-name>
 </channel>
@@ -364,206 +322,10 @@
 <title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
 <desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="87e6f6613fd279b9b569b8dbae46f46e">
-<display-name>FIFA Club World Cup : Manchester City vs Wydad Casablanca</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="87e6f6613fd279b9b569b8dbae46f46e">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="ac8207281caf016be67c610b5925e9a3">
 <display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
 </channel>
 <programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ac8207281caf016be67c610b5925e9a3">
-<display-name>UEFA Euro U-21 : Netherlands U21 vs Ukraine U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="ac8207281caf016be67c610b5925e9a3">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6d6f2050ea77547b26bf876998a9a4b8">
-<display-name>UEFA Euro U-21 : Denmark U21 vs Finland U21</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="6d6f2050ea77547b26bf876998a9a4b8">
 <title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
 <desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
 </programme>
@@ -581,20 +343,6 @@
 <title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
 <desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="18d7421a1865f4d48c148348e7715240">
-<display-name>UEFA U19 European Championship - Women : Poland U19 vs France U19</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="18d7421a1865f4d48c148348e7715240">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="01e17896c533b809a00b12a0db84d437">
-<display-name>UEFA U19 European Championship - Women : Sweden U19 vs Italy U19</display-name>
-</channel>
-<programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="01e17896c533b809a00b12a0db84d437">
-<title>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</title>
-<desc>12:00 AM 6/19/25 PHT | 11:00 AM 6/18/25 ET | 08:00 AM 6/18/25 PT | 04:00 PM 6/18/25 GMT | 05:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="01e17896c533b809a00b12a0db84d437">
 <display-name>UEFA U19 European Championship - Women : Sweden U19 vs Italy U19</display-name>
 </channel>
@@ -609,181 +357,6 @@
 <title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
 <desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="40b24146fbb43b0bb5443077bb9c6d70">
-<display-name>Uruguay Primera Division : Danubio vs Racing</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="40b24146fbb43b0bb5443077bb9c6d70">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="40b24146fbb43b0bb5443077bb9c6d70">
-<display-name>Uruguay Primera Division : Danubio vs Racing</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="40b24146fbb43b0bb5443077bb9c6d70">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="ab27afefa5d81265b77e323842f7d39f">
-<display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="ab27afefa5d81265b77e323842f7d39f">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="ab27afefa5d81265b77e323842f7d39f">
 <display-name>FIFA Club World Cup : Real Madrid vs Al Hilal</display-name>
 </channel>
@@ -795,174 +368,6 @@
 <display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
 </channel>
 <programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<display-name>UEFA Euro U-21 : England U21 vs Germany U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="7fb4782c474ff0fb1f0486b3c0b5a9d4">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1e6475449ab7da657b7f52c376cb4806">
-<display-name>UEFA Euro U-21 : Slovenia U21 vs Czechia U21</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="1e6475449ab7da657b7f52c376cb4806">
 <title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
 <desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
 </programme>
@@ -980,104 +385,6 @@
 <title>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</title>
 <desc>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</desc>
 </programme>
-<channel id="b65054d284d10394fc150e358bdca695">
-<display-name>Uruguay Primera Division : Torque vs Miramar Misiones</display-name>
-</channel>
-<programme start="20250618203000 +0000" stop="20250618213000 +0000" channel="b65054d284d10394fc150e358bdca695">
-<title>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</title>
-<desc>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="b65054d284d10394fc150e358bdca695">
-<display-name>Uruguay Primera Division : Torque vs Miramar Misiones</display-name>
-</channel>
-<programme start="20250618203000 +0000" stop="20250618213000 +0000" channel="b65054d284d10394fc150e358bdca695">
-<title>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</title>
-<desc>04:30 AM 6/19/25 PHT | 03:30 PM 6/18/25 ET | 12:30 PM 6/18/25 PT | 08:30 PM 6/18/25 GMT | 09:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="32cb76bb7ccce7a493b20a8979766953">
-<display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
-</channel>
-<programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="32cb76bb7ccce7a493b20a8979766953">
-<title>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</title>
-<desc>06:00 AM 6/19/25 PHT | 05:00 PM 6/18/25 ET | 02:00 PM 6/18/25 PT | 10:00 PM 6/18/25 GMT | 11:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="32cb76bb7ccce7a493b20a8979766953">
 <display-name>FIFA Club World Cup : Pachuca vs Salzburg</display-name>
 </channel>
@@ -1091,104 +398,6 @@
 <programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
 <title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
 <desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="58703b992669a03e0306eb8d6d0cbc8c">
-<display-name>CONCACAF Gold Cup : Costa Rica vs Dominican Republic</display-name>
-</channel>
-<programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="58703b992669a03e0306eb8d6d0cbc8c">
-<title>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</title>
-<desc>07:00 AM 6/19/25 PHT | 06:00 PM 6/18/25 ET | 03:00 PM 6/18/25 PT | 11:00 PM 6/18/25 GMT | 12:00 AM 6/19/25 CET</desc>
-</programme>
-<channel id="b1bd57019a0da424cf58cf5dffa1243a">
-<display-name>Uruguay Primera Division : Nacional vs Juventud</display-name>
-</channel>
-<programme start="20250618233000 +0000" stop="20250619003000 +0000" channel="b1bd57019a0da424cf58cf5dffa1243a">
-<title>07:30 AM 6/19/25 PHT | 06:30 PM 6/18/25 ET | 03:30 PM 6/18/25 PT | 11:30 PM 6/18/25 GMT | 12:30 AM 6/19/25 CET</title>
-<desc>07:30 AM 6/19/25 PHT | 06:30 PM 6/18/25 ET | 03:30 PM 6/18/25 PT | 11:30 PM 6/18/25 GMT | 12:30 AM 6/19/25 CET</desc>
-</programme>
-<channel id="b1bd57019a0da424cf58cf5dffa1243a">
-<display-name>Uruguay Primera Division : Nacional vs Juventud</display-name>
-</channel>
-<programme start="20250618233000 +0000" stop="20250619003000 +0000" channel="b1bd57019a0da424cf58cf5dffa1243a">
-<title>07:30 AM 6/19/25 PHT | 06:30 PM 6/18/25 ET | 03:30 PM 6/18/25 PT | 11:30 PM 6/18/25 GMT | 12:30 AM 6/19/25 CET</title>
-<desc>07:30 AM 6/19/25 PHT | 06:30 PM 6/18/25 ET | 03:30 PM 6/18/25 PT | 11:30 PM 6/18/25 GMT | 12:30 AM 6/19/25 CET</desc>
 </programme>
 <channel id="b1bd57019a0da424cf58cf5dffa1243a">
 <display-name>Uruguay Primera Division : Nacional vs Juventud</display-name>
@@ -1211,20 +420,6 @@
 <title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
 <desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
 </programme>
-<channel id="94240ee5c2afcb0a04c4b62114b43467">
-<display-name>USL League One : Forward Madison vs Westchester SC</display-name>
-</channel>
-<programme start="20250618000000 +0000" stop="20250618010000 +0000" channel="94240ee5c2afcb0a04c4b62114b43467">
-<title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
-<desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="a269dad9d72de5691965aa6fa8ab9a97">
-<display-name>Peru Primera Division : Comerciantes Unidos vs Alianza Lima</display-name>
-</channel>
-<programme start="20250618000000 +0000" stop="20250618010000 +0000" channel="a269dad9d72de5691965aa6fa8ab9a97">
-<title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
-<desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
-</programme>
 <channel id="a269dad9d72de5691965aa6fa8ab9a97">
 <display-name>Peru Primera Division : Comerciantes Unidos vs Alianza Lima</display-name>
 </channel>
@@ -1238,188 +433,6 @@
 <programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
 <title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
 <desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e57eec8cc175cfd4768d89391e68f5e3">
-<display-name>FIFA Club World Cup : Al Ain vs Juventus</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e57eec8cc175cfd4768d89391e68f5e3">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="167a5d1aaddf249f125c70718497b611">
-<display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
-</channel>
-<programme start="20250618020000 +0000" stop="20250618030000 +0000" channel="167a5d1aaddf249f125c70718497b611">
-<title>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</title>
-<desc>10:00 AM 6/18/25 PHT | 09:00 PM 6/17/25 ET | 06:00 PM 6/17/25 PT | 02:00 AM 6/18/25 GMT | 03:00 AM 6/18/25 CET</desc>
 </programme>
 <channel id="167a5d1aaddf249f125c70718497b611">
 <display-name>CONCACAF Gold Cup : Suriname vs Mexico</display-name>
@@ -1455,27 +468,6 @@
 <programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="42088bfefd08bd3da0ef76ff23d05ad1">
 <title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
 <desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="42088bfefd08bd3da0ef76ff23d05ad1">
-<display-name>NatWest T20 Blast : Kent vs Gloucestershire</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="42088bfefd08bd3da0ef76ff23d05ad1">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="42088bfefd08bd3da0ef76ff23d05ad1">
-<display-name>NatWest T20 Blast : Kent vs Gloucestershire</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="42088bfefd08bd3da0ef76ff23d05ad1">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="e3dd1f96007a4b7c1d7be9e18e6ed6b8">
-<display-name>Major League Cricket : MI New York vs Seattle Orcas</display-name>
-</channel>
-<programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="e3dd1f96007a4b7c1d7be9e18e6ed6b8">
-<title>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</title>
-<desc>09:00 AM 6/18/25 PHT | 08:00 PM 6/17/25 ET | 05:00 PM 6/17/25 PT | 01:00 AM 6/18/25 GMT | 02:00 AM 6/18/25 CET</desc>
 </programme>
 <channel id="e3dd1f96007a4b7c1d7be9e18e6ed6b8">
 <display-name>Major League Cricket : MI New York vs Seattle Orcas</display-name>
@@ -1630,202 +622,6 @@
 <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="7b61bf00f2c805f2c3f419bdaab807e4">
 <title>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</title>
 <desc>11:00 PM 6/18/25 PHT | 10:00 AM 6/18/25 ET | 07:00 AM 6/18/25 PT | 03:00 PM 6/18/25 GMT | 04:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
-<display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="3b25f0e389a2bb8d9ce00d5b734552d4">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
 </programme>
 <channel id="3b25f0e389a2bb8d9ce00d5b734552d4">
 <display-name>ATP &amp; WTA: ATP London &amp; WTA Berlin Conference, Day 3</display-name>
@@ -2478,68 +1274,12 @@
 <title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
 <desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
 </programme>
-<channel id="c5859f7bcc12f51550055536aca6d80f">
-<display-name>All Elite Wrestling: Dynamite</display-name>
-</channel>
-<programme start="20250618000000 +0000" stop="20250618010000 +0000" channel="c5859f7bcc12f51550055536aca6d80f">
-<title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
-<desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="c5859f7bcc12f51550055536aca6d80f">
-<display-name>All Elite Wrestling: Dynamite</display-name>
-</channel>
-<programme start="20250618000000 +0000" stop="20250618010000 +0000" channel="c5859f7bcc12f51550055536aca6d80f">
-<title>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</title>
-<desc>08:00 AM 6/18/25 PHT | 07:00 PM 6/17/25 ET | 04:00 PM 6/17/25 PT | 12:00 AM 6/18/25 GMT | 01:00 AM 6/18/25 CET</desc>
-</programme>
 <channel id="5a762abc46e886b86d985424ff543a9c">
 <display-name>Judo: World Championships World Championships. Day 6. Playoffs.</display-name>
 </channel>
 <programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="5a762abc46e886b86d985424ff543a9c">
 <title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
 <desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="5a762abc46e886b86d985424ff543a9c">
-<display-name>Judo: World Championships World Championships. Day 6. Playoffs.</display-name>
-</channel>
-<programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="5a762abc46e886b86d985424ff543a9c">
-<title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
-<desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="726f325989383a8ed83a237515af14ff">
-<display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
-</channel>
-<programme start="20250618154500 +0000" stop="20250618164500 +0000" channel="726f325989383a8ed83a237515af14ff">
-<title>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</title>
-<desc>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="726f325989383a8ed83a237515af14ff">
-<display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
-</channel>
-<programme start="20250618154500 +0000" stop="20250618164500 +0000" channel="726f325989383a8ed83a237515af14ff">
-<title>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</title>
-<desc>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="726f325989383a8ed83a237515af14ff">
-<display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
-</channel>
-<programme start="20250618154500 +0000" stop="20250618164500 +0000" channel="726f325989383a8ed83a237515af14ff">
-<title>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</title>
-<desc>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="726f325989383a8ed83a237515af14ff">
-<display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
-</channel>
-<programme start="20250618154500 +0000" stop="20250618164500 +0000" channel="726f325989383a8ed83a237515af14ff">
-<title>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</title>
-<desc>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="726f325989383a8ed83a237515af14ff">
-<display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
-</channel>
-<programme start="20250618154500 +0000" stop="20250618164500 +0000" channel="726f325989383a8ed83a237515af14ff">
-<title>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</title>
-<desc>11:45 PM 6/18/25 PHT | 10:45 AM 6/18/25 ET | 07:45 AM 6/18/25 PT | 03:45 PM 6/18/25 GMT | 04:45 PM 6/18/25 CET</desc>
 </programme>
 <channel id="726f325989383a8ed83a237515af14ff">
 <display-name>Judo: World Championships World Championships. Day 6. Final stages.</display-name>
@@ -2590,80 +1330,10 @@
 <title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
 <desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
 </programme>
-<channel id="764727c57ab438565732cb6d90bc2f00">
-<display-name>MLB : Seattle Mariners vs Boston Red Sox</display-name>
-</channel>
-<programme start="20250618201000 +0000" stop="20250618211000 +0000" channel="764727c57ab438565732cb6d90bc2f00">
-<title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
-<desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
-</programme>
-<channel id="764727c57ab438565732cb6d90bc2f00">
-<display-name>MLB : Seattle Mariners vs Boston Red Sox</display-name>
-</channel>
-<programme start="20250618201000 +0000" stop="20250618211000 +0000" channel="764727c57ab438565732cb6d90bc2f00">
-<title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
-<desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
-</programme>
-<channel id="764727c57ab438565732cb6d90bc2f00">
-<display-name>MLB : Seattle Mariners vs Boston Red Sox</display-name>
-</channel>
-<programme start="20250618201000 +0000" stop="20250618211000 +0000" channel="764727c57ab438565732cb6d90bc2f00">
-<title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
-<desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
-</programme>
-<channel id="764727c57ab438565732cb6d90bc2f00">
-<display-name>MLB : Seattle Mariners vs Boston Red Sox</display-name>
-</channel>
-<programme start="20250618201000 +0000" stop="20250618211000 +0000" channel="764727c57ab438565732cb6d90bc2f00">
-<title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
-<desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
-</programme>
-<channel id="764727c57ab438565732cb6d90bc2f00">
-<display-name>MLB : Seattle Mariners vs Boston Red Sox</display-name>
-</channel>
-<programme start="20250618201000 +0000" stop="20250618211000 +0000" channel="764727c57ab438565732cb6d90bc2f00">
-<title>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</title>
-<desc>04:10 AM 6/19/25 PHT | 03:10 PM 6/18/25 ET | 12:10 PM 6/18/25 PT | 08:10 PM 6/18/25 GMT | 09:10 PM 6/18/25 CET</desc>
-</programme>
 <channel id="33331ab30bc275fe89cd8dba47440fad">
 <display-name>MLB : Miami Marlins vs Philadelphia Phillies</display-name>
 </channel>
 <programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="33331ab30bc275fe89cd8dba47440fad">
-<title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
-<desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
-</programme>
-<channel id="33331ab30bc275fe89cd8dba47440fad">
-<display-name>MLB : Miami Marlins vs Philadelphia Phillies</display-name>
-</channel>
-<programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="33331ab30bc275fe89cd8dba47440fad">
-<title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
-<desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
-</programme>
-<channel id="33331ab30bc275fe89cd8dba47440fad">
-<display-name>MLB : Miami Marlins vs Philadelphia Phillies</display-name>
-</channel>
-<programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="33331ab30bc275fe89cd8dba47440fad">
-<title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
-<desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c7fb8970abc21275b5d3d61bd021913a">
-<display-name>MLB : Detroit Tigers vs Pittsburgh Pirates</display-name>
-</channel>
-<programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="c7fb8970abc21275b5d3d61bd021913a">
-<title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
-<desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c7fb8970abc21275b5d3d61bd021913a">
-<display-name>MLB : Detroit Tigers vs Pittsburgh Pirates</display-name>
-</channel>
-<programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="c7fb8970abc21275b5d3d61bd021913a">
-<title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
-<desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c7fb8970abc21275b5d3d61bd021913a">
-<display-name>MLB : Detroit Tigers vs Pittsburgh Pirates</display-name>
-</channel>
-<programme start="20250618224000 +0000" stop="20250618234000 +0000" channel="c7fb8970abc21275b5d3d61bd021913a">
 <title>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</title>
 <desc>06:40 AM 6/19/25 PHT | 05:40 PM 6/18/25 ET | 02:40 PM 6/18/25 PT | 10:40 PM 6/18/25 GMT | 11:40 PM 6/18/25 CET</desc>
 </programme>
@@ -2681,68 +1351,12 @@
 <title>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</title>
 <desc>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</desc>
 </programme>
-<channel id="09a0f76127cd1665b52c79edfdd788fc">
-<display-name>MLB : Washington Nationals vs Colorado Rockies</display-name>
-</channel>
-<programme start="20250618224500 +0000" stop="20250618234500 +0000" channel="09a0f76127cd1665b52c79edfdd788fc">
-<title>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</title>
-<desc>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="09a0f76127cd1665b52c79edfdd788fc">
-<display-name>MLB : Washington Nationals vs Colorado Rockies</display-name>
-</channel>
-<programme start="20250618224500 +0000" stop="20250618234500 +0000" channel="09a0f76127cd1665b52c79edfdd788fc">
-<title>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</title>
-<desc>06:45 AM 6/19/25 PHT | 05:45 PM 6/18/25 ET | 02:45 PM 6/18/25 PT | 10:45 PM 6/18/25 GMT | 11:45 PM 6/18/25 CET</desc>
-</programme>
 <channel id="16272f2e4a457d91f25852e041a9fdff">
 <display-name>MLB : New York Yankees vs Los Angeles Angels</display-name>
 </channel>
 <programme start="20250618230500 +0000" stop="20250619000500 +0000" channel="16272f2e4a457d91f25852e041a9fdff">
 <title>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</title>
 <desc>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</desc>
-</programme>
-<channel id="16272f2e4a457d91f25852e041a9fdff">
-<display-name>MLB : New York Yankees vs Los Angeles Angels</display-name>
-</channel>
-<programme start="20250618230500 +0000" stop="20250619000500 +0000" channel="16272f2e4a457d91f25852e041a9fdff">
-<title>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</title>
-<desc>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</desc>
-</programme>
-<channel id="16272f2e4a457d91f25852e041a9fdff">
-<display-name>MLB : New York Yankees vs Los Angeles Angels</display-name>
-</channel>
-<programme start="20250618230500 +0000" stop="20250619000500 +0000" channel="16272f2e4a457d91f25852e041a9fdff">
-<title>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</title>
-<desc>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</desc>
-</programme>
-<channel id="16272f2e4a457d91f25852e041a9fdff">
-<display-name>MLB : New York Yankees vs Los Angeles Angels</display-name>
-</channel>
-<programme start="20250618230500 +0000" stop="20250619000500 +0000" channel="16272f2e4a457d91f25852e041a9fdff">
-<title>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</title>
-<desc>07:05 AM 6/19/25 PHT | 06:05 PM 6/18/25 ET | 03:05 PM 6/18/25 PT | 11:05 PM 6/18/25 GMT | 12:05 AM 6/19/25 CET</desc>
-</programme>
-<channel id="4f513c66d7caa3357fa86bdd192063e3">
-<display-name>MLB : Toronto Blue Jays vs Arizona Diamondbacks</display-name>
-</channel>
-<programme start="20250618230700 +0000" stop="20250619000700 +0000" channel="4f513c66d7caa3357fa86bdd192063e3">
-<title>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</title>
-<desc>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</desc>
-</programme>
-<channel id="4f513c66d7caa3357fa86bdd192063e3">
-<display-name>MLB : Toronto Blue Jays vs Arizona Diamondbacks</display-name>
-</channel>
-<programme start="20250618230700 +0000" stop="20250619000700 +0000" channel="4f513c66d7caa3357fa86bdd192063e3">
-<title>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</title>
-<desc>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</desc>
-</programme>
-<channel id="4f513c66d7caa3357fa86bdd192063e3">
-<display-name>MLB : Toronto Blue Jays vs Arizona Diamondbacks</display-name>
-</channel>
-<programme start="20250618230700 +0000" stop="20250619000700 +0000" channel="4f513c66d7caa3357fa86bdd192063e3">
-<title>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</title>
-<desc>07:07 AM 6/19/25 PHT | 06:07 PM 6/18/25 ET | 03:07 PM 6/18/25 PT | 11:07 PM 6/18/25 GMT | 12:07 AM 6/19/25 CET</desc>
 </programme>
 <channel id="4f513c66d7caa3357fa86bdd192063e3">
 <display-name>MLB : Toronto Blue Jays vs Arizona Diamondbacks</display-name>
@@ -2758,69 +1372,6 @@
 <title>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</title>
 <desc>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</desc>
 </programme>
-<channel id="c35fc22b08246f64265b1f2fce438346">
-<display-name>MLB : Cincinnati Reds vs Minnesota Twins</display-name>
-</channel>
-<programme start="20250618231000 +0000" stop="20250619001000 +0000" channel="c35fc22b08246f64265b1f2fce438346">
-<title>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</title>
-<desc>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</desc>
-</programme>
-<channel id="c35fc22b08246f64265b1f2fce438346">
-<display-name>MLB : Cincinnati Reds vs Minnesota Twins</display-name>
-</channel>
-<programme start="20250618231000 +0000" stop="20250619001000 +0000" channel="c35fc22b08246f64265b1f2fce438346">
-<title>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</title>
-<desc>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</desc>
-</programme>
-<channel id="c35fc22b08246f64265b1f2fce438346">
-<display-name>MLB : Cincinnati Reds vs Minnesota Twins</display-name>
-</channel>
-<programme start="20250618231000 +0000" stop="20250619001000 +0000" channel="c35fc22b08246f64265b1f2fce438346">
-<title>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</title>
-<desc>07:10 AM 6/19/25 PHT | 06:10 PM 6/18/25 ET | 03:10 PM 6/18/25 PT | 11:10 PM 6/18/25 GMT | 12:10 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
-<channel id="a56fc1fe0358e3b238248ca07de700ab">
-<display-name>MLB : Atlanta Braves vs New York Mets</display-name>
-</channel>
-<programme start="20250618231500 +0000" stop="20250619001500 +0000" channel="a56fc1fe0358e3b238248ca07de700ab">
-<title>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</title>
-<desc>07:15 AM 6/19/25 PHT | 06:15 PM 6/18/25 ET | 03:15 PM 6/18/25 PT | 11:15 PM 6/18/25 GMT | 12:15 AM 6/19/25 CET</desc>
-</programme>
 <channel id="a56fc1fe0358e3b238248ca07de700ab">
 <display-name>MLB : Atlanta Braves vs New York Mets</display-name>
 </channel>
@@ -2834,62 +1385,6 @@
 <programme start="20250618233500 +0000" stop="20250619003500 +0000" channel="702322bd031a45bbf63ecc7a4114a3fc">
 <title>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</title>
 <desc>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</desc>
-</programme>
-<channel id="702322bd031a45bbf63ecc7a4114a3fc">
-<display-name>MLB : Tampa Bay Rays vs Baltimore Orioles</display-name>
-</channel>
-<programme start="20250618233500 +0000" stop="20250619003500 +0000" channel="702322bd031a45bbf63ecc7a4114a3fc">
-<title>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</title>
-<desc>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</desc>
-</programme>
-<channel id="702322bd031a45bbf63ecc7a4114a3fc">
-<display-name>MLB : Tampa Bay Rays vs Baltimore Orioles</display-name>
-</channel>
-<programme start="20250618233500 +0000" stop="20250619003500 +0000" channel="702322bd031a45bbf63ecc7a4114a3fc">
-<title>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</title>
-<desc>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</desc>
-</programme>
-<channel id="702322bd031a45bbf63ecc7a4114a3fc">
-<display-name>MLB : Tampa Bay Rays vs Baltimore Orioles</display-name>
-</channel>
-<programme start="20250618233500 +0000" stop="20250619003500 +0000" channel="702322bd031a45bbf63ecc7a4114a3fc">
-<title>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</title>
-<desc>07:35 AM 6/19/25 PHT | 06:35 PM 6/18/25 ET | 03:35 PM 6/18/25 PT | 11:35 PM 6/18/25 GMT | 12:35 AM 6/19/25 CET</desc>
-</programme>
-<channel id="808a1a5f275ed40f5e08f4aae8def928">
-<display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
-</channel>
-<programme start="20250618234000 +0000" stop="20250619004000 +0000" channel="808a1a5f275ed40f5e08f4aae8def928">
-<title>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</title>
-<desc>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</desc>
-</programme>
-<channel id="808a1a5f275ed40f5e08f4aae8def928">
-<display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
-</channel>
-<programme start="20250618234000 +0000" stop="20250619004000 +0000" channel="808a1a5f275ed40f5e08f4aae8def928">
-<title>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</title>
-<desc>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</desc>
-</programme>
-<channel id="808a1a5f275ed40f5e08f4aae8def928">
-<display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
-</channel>
-<programme start="20250618234000 +0000" stop="20250619004000 +0000" channel="808a1a5f275ed40f5e08f4aae8def928">
-<title>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</title>
-<desc>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</desc>
-</programme>
-<channel id="808a1a5f275ed40f5e08f4aae8def928">
-<display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
-</channel>
-<programme start="20250618234000 +0000" stop="20250619004000 +0000" channel="808a1a5f275ed40f5e08f4aae8def928">
-<title>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</title>
-<desc>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</desc>
-</programme>
-<channel id="808a1a5f275ed40f5e08f4aae8def928">
-<display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
-</channel>
-<programme start="20250618234000 +0000" stop="20250619004000 +0000" channel="808a1a5f275ed40f5e08f4aae8def928">
-<title>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</title>
-<desc>07:40 AM 6/19/25 PHT | 06:40 PM 6/18/25 ET | 03:40 PM 6/18/25 PT | 11:40 PM 6/18/25 GMT | 12:40 AM 6/19/25 CET</desc>
 </programme>
 <channel id="808a1a5f275ed40f5e08f4aae8def928">
 <display-name>MLB : Chicago White Sox vs St. Louis Cardinals</display-name>
@@ -2902,27 +1397,6 @@
 <display-name>MLB : Texas Rangers vs Kansas City Royals</display-name>
 </channel>
 <programme start="20250618000500 +0000" stop="20250618010500 +0000" channel="a35559623a3ab4233dd412ac4cd5ce43">
-<title>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</title>
-<desc>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="a35559623a3ab4233dd412ac4cd5ce43">
-<display-name>MLB : Texas Rangers vs Kansas City Royals</display-name>
-</channel>
-<programme start="20250618000500 +0000" stop="20250618010500 +0000" channel="a35559623a3ab4233dd412ac4cd5ce43">
-<title>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</title>
-<desc>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="bfd0d29ae2a9b63746f15c3d7698e721">
-<display-name>MLB : Chicago Cubs vs Milwaukee Brewers</display-name>
-</channel>
-<programme start="20250618000500 +0000" stop="20250618010500 +0000" channel="bfd0d29ae2a9b63746f15c3d7698e721">
-<title>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</title>
-<desc>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="bfd0d29ae2a9b63746f15c3d7698e721">
-<display-name>MLB : Chicago Cubs vs Milwaukee Brewers</display-name>
-</channel>
-<programme start="20250618000500 +0000" stop="20250618010500 +0000" channel="bfd0d29ae2a9b63746f15c3d7698e721">
 <title>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</title>
 <desc>08:05 AM 6/18/25 PHT | 07:05 PM 6/17/25 ET | 04:05 PM 6/17/25 PT | 12:05 AM 6/18/25 GMT | 01:05 AM 6/18/25 CET</desc>
 </programme>
@@ -2940,82 +1414,12 @@
 <title>09:45 AM 6/18/25 PHT | 08:45 PM 6/17/25 ET | 05:45 PM 6/17/25 PT | 01:45 AM 6/18/25 GMT | 02:45 AM 6/18/25 CET</title>
 <desc>09:45 AM 6/18/25 PHT | 08:45 PM 6/17/25 ET | 05:45 PM 6/17/25 PT | 01:45 AM 6/18/25 GMT | 02:45 AM 6/18/25 CET</desc>
 </programme>
-<channel id="f14d69d3ed5b4d3a935723fcf61e50da">
-<display-name>MLB : San Francisco Giants vs Cleveland Guardians</display-name>
-</channel>
-<programme start="20250618014500 +0000" stop="20250618024500 +0000" channel="f14d69d3ed5b4d3a935723fcf61e50da">
-<title>09:45 AM 6/18/25 PHT | 08:45 PM 6/17/25 ET | 05:45 PM 6/17/25 PT | 01:45 AM 6/18/25 GMT | 02:45 AM 6/18/25 CET</title>
-<desc>09:45 AM 6/18/25 PHT | 08:45 PM 6/17/25 ET | 05:45 PM 6/17/25 PT | 01:45 AM 6/18/25 GMT | 02:45 AM 6/18/25 CET</desc>
-</programme>
 <channel id="e3cddf92bf2d69e43638301bc93fdf52">
 <display-name>MLB : Oakland Athletics vs Houston Astros</display-name>
 </channel>
 <programme start="20250618020500 +0000" stop="20250618030500 +0000" channel="e3cddf92bf2d69e43638301bc93fdf52">
 <title>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</title>
 <desc>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e3cddf92bf2d69e43638301bc93fdf52">
-<display-name>MLB : Oakland Athletics vs Houston Astros</display-name>
-</channel>
-<programme start="20250618020500 +0000" stop="20250618030500 +0000" channel="e3cddf92bf2d69e43638301bc93fdf52">
-<title>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</title>
-<desc>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="e3cddf92bf2d69e43638301bc93fdf52">
-<display-name>MLB : Oakland Athletics vs Houston Astros</display-name>
-</channel>
-<programme start="20250618020500 +0000" stop="20250618030500 +0000" channel="e3cddf92bf2d69e43638301bc93fdf52">
-<title>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</title>
-<desc>10:05 AM 6/18/25 PHT | 09:05 PM 6/17/25 ET | 06:05 PM 6/17/25 PT | 02:05 AM 6/18/25 GMT | 03:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
-</programme>
-<channel id="502eea1e901897df54bd63437189e50f">
-<display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
-</channel>
-<programme start="20250618021000 +0000" stop="20250618031000 +0000" channel="502eea1e901897df54bd63437189e50f">
-<title>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</title>
-<desc>10:10 AM 6/18/25 PHT | 09:10 PM 6/17/25 ET | 06:10 PM 6/17/25 PT | 02:10 AM 6/18/25 GMT | 03:10 AM 6/18/25 CET</desc>
 </programme>
 <channel id="502eea1e901897df54bd63437189e50f">
 <display-name>MLB : Los Angeles Dodgers vs San Diego Padres</display-name>
@@ -3031,69 +1435,6 @@
 <title>02:00 PM 6/18/25 PHT | 01:00 AM 6/18/25 ET | 10:00 PM 6/17/25 PT | 06:00 AM 6/18/25 GMT | 07:00 AM 6/18/25 CET</title>
 <desc>02:00 PM 6/18/25 PHT | 01:00 AM 6/18/25 ET | 10:00 PM 6/17/25 PT | 06:00 AM 6/18/25 GMT | 07:00 AM 6/18/25 CET</desc>
 </programme>
-<channel id="9897b14f373d0e3ae4ce710d919f397c">
-<display-name>NBL : Nelson Giants vs Taranaki Mountainairs</display-name>
-</channel>
-<programme start="20250618060000 +0000" stop="20250618070000 +0000" channel="9897b14f373d0e3ae4ce710d919f397c">
-<title>02:00 PM 6/18/25 PHT | 01:00 AM 6/18/25 ET | 10:00 PM 6/17/25 PT | 06:00 AM 6/18/25 GMT | 07:00 AM 6/18/25 CET</title>
-<desc>02:00 PM 6/18/25 PHT | 01:00 AM 6/18/25 ET | 10:00 PM 6/17/25 PT | 06:00 AM 6/18/25 GMT | 07:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4400ddacfff7e96144d46918fc779bbd">
-<display-name>Eurobasket Women : Turkey W vs France W</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="4400ddacfff7e96144d46918fc779bbd">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
 <channel id="4400ddacfff7e96144d46918fc779bbd">
 <display-name>Eurobasket Women : Turkey W vs France W</display-name>
 </channel>
@@ -3108,82 +1449,12 @@
 <title>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</title>
 <desc>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</desc>
 </programme>
-<channel id="144f717abecb314cc489a4399876b1c3">
-<display-name>Eurobasket Women : Slovenia W vs Lithuania W</display-name>
-</channel>
-<programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="144f717abecb314cc489a4399876b1c3">
-<title>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</title>
-<desc>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="144f717abecb314cc489a4399876b1c3">
-<display-name>Eurobasket Women : Slovenia W vs Lithuania W</display-name>
-</channel>
-<programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="144f717abecb314cc489a4399876b1c3">
-<title>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</title>
-<desc>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="144f717abecb314cc489a4399876b1c3">
-<display-name>Eurobasket Women : Slovenia W vs Lithuania W</display-name>
-</channel>
-<programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="144f717abecb314cc489a4399876b1c3">
-<title>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</title>
-<desc>11:30 PM 6/18/25 PHT | 10:30 AM 6/18/25 ET | 07:30 AM 6/18/25 PT | 03:30 PM 6/18/25 GMT | 04:30 PM 6/18/25 CET</desc>
-</programme>
 <channel id="c69a47400d18492c9e27c74a45d5d957">
 <display-name>Eurobasket Women : Greece W vs Switzerland W</display-name>
 </channel>
 <programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="c69a47400d18492c9e27c74a45d5d957">
 <title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
 <desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c69a47400d18492c9e27c74a45d5d957">
-<display-name>Eurobasket Women : Greece W vs Switzerland W</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="c69a47400d18492c9e27c74a45d5d957">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c69a47400d18492c9e27c74a45d5d957">
-<display-name>Eurobasket Women : Greece W vs Switzerland W</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="c69a47400d18492c9e27c74a45d5d957">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c69a47400d18492c9e27c74a45d5d957">
-<display-name>Eurobasket Women : Greece W vs Switzerland W</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="c69a47400d18492c9e27c74a45d5d957">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c69a47400d18492c9e27c74a45d5d957">
-<display-name>Eurobasket Women : Greece W vs Switzerland W</display-name>
-</channel>
-<programme start="20250618173000 +0000" stop="20250618183000 +0000" channel="c69a47400d18492c9e27c74a45d5d957">
-<title>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</title>
-<desc>01:30 AM 6/19/25 PHT | 12:30 PM 6/18/25 ET | 09:30 AM 6/18/25 PT | 05:30 PM 6/18/25 GMT | 06:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="40d85296891b3558b15a3a5450b21685">
-<display-name>Germany BBL : Ulm Basketball vs. Bayern Munich</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="40d85296891b3558b15a3a5450b21685">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="40d85296891b3558b15a3a5450b21685">
-<display-name>Germany BBL : Ulm Basketball vs. Bayern Munich</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="40d85296891b3558b15a3a5450b21685">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="40d85296891b3558b15a3a5450b21685">
-<display-name>Germany BBL : Ulm Basketball vs. Bayern Munich</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="40d85296891b3558b15a3a5450b21685">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
 </programme>
 <channel id="40d85296891b3558b15a3a5450b21685">
 <display-name>Germany BBL : Ulm Basketball vs. Bayern Munich</display-name>
@@ -3205,48 +1476,6 @@
 <programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
 <title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
 <desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<display-name>Eurobasket Women : Serbia W vs Italy W</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<display-name>Eurobasket Women : Serbia W vs Italy W</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<display-name>Eurobasket Women : Serbia W vs Italy W</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<display-name>Eurobasket Women : Serbia W vs Italy W</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<display-name>Eurobasket Women : Serbia W vs Italy W</display-name>
-</channel>
-<programme start="20250618190000 +0000" stop="20250618200000 +0000" channel="9a95ca6a0bb5cbc02ea9445a79f2894d">
-<title>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</title>
-<desc>03:00 AM 6/19/25 PHT | 02:00 PM 6/18/25 ET | 11:00 AM 6/18/25 PT | 07:00 PM 6/18/25 GMT | 08:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="4f7771fb988de733ae55c1413a76b6ec">
-<display-name>NBB : Final, Jogo 4: Franca vs Minas</display-name>
-</channel>
-<programme start="20250618211000 +0000" stop="20250618221000 +0000" channel="4f7771fb988de733ae55c1413a76b6ec">
-<title>05:10 AM 6/19/25 PHT | 04:10 PM 6/18/25 ET | 01:10 PM 6/18/25 PT | 09:10 PM 6/18/25 GMT | 10:10 PM 6/18/25 CET</title>
-<desc>05:10 AM 6/19/25 PHT | 04:10 PM 6/18/25 ET | 01:10 PM 6/18/25 PT | 09:10 PM 6/18/25 GMT | 10:10 PM 6/18/25 CET</desc>
 </programme>
 <channel id="4f7771fb988de733ae55c1413a76b6ec">
 <display-name>NBB : Final, Jogo 4: Franca vs Minas</display-name>
@@ -3283,62 +1512,6 @@
 <title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
 <desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
 </programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
-<channel id="1a92e601ff0c12984a24020d392fe61e">
-<display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-</channel>
-<programme start="20250618124500 +0000" stop="20250618134500 +0000" channel="1a92e601ff0c12984a24020d392fe61e">
-<title>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</title>
-<desc>08:45 PM 6/18/25 PHT | 07:45 AM 6/18/25 ET | 04:45 AM 6/18/25 PT | 12:45 PM 6/18/25 GMT | 01:45 PM 6/18/25 CET</desc>
-</programme>
 <channel id="15b1b24f194e325f4114fb28ee1b811d">
 <display-name>UCI Tour of Belgium Tour of Belgium - Stage 1</display-name>
 </channel>
@@ -3367,33 +1540,12 @@
 <title>08:00 PM 6/18/25 PHT | 07:00 AM 6/18/25 ET | 04:00 AM 6/18/25 PT | 12:00 PM 6/18/25 GMT | 01:00 PM 6/18/25 CET</title>
 <desc>08:00 PM 6/18/25 PHT | 07:00 AM 6/18/25 ET | 04:00 AM 6/18/25 PT | 12:00 PM 6/18/25 GMT | 01:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="33bb9eb2d35d1395a09668897ddad977">
-<display-name>World Championship U21 : Hungary vs. Brazil</display-name>
-</channel>
-<programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="33bb9eb2d35d1395a09668897ddad977">
-<title>08:00 PM 6/18/25 PHT | 07:00 AM 6/18/25 ET | 04:00 AM 6/18/25 PT | 12:00 PM 6/18/25 GMT | 01:00 PM 6/18/25 CET</title>
-<desc>08:00 PM 6/18/25 PHT | 07:00 AM 6/18/25 ET | 04:00 AM 6/18/25 PT | 12:00 PM 6/18/25 GMT | 01:00 PM 6/18/25 CET</desc>
-</programme>
 <channel id="5e64e24b33d393a87fd1e57ef543551f">
 <display-name>World Championship U21 : Norway vs. Slovenia</display-name>
 </channel>
 <programme start="20250618141500 +0000" stop="20250618151500 +0000" channel="5e64e24b33d393a87fd1e57ef543551f">
 <title>10:15 PM 6/18/25 PHT | 09:15 AM 6/18/25 ET | 06:15 AM 6/18/25 PT | 02:15 PM 6/18/25 GMT | 03:15 PM 6/18/25 CET</title>
 <desc>10:15 PM 6/18/25 PHT | 09:15 AM 6/18/25 ET | 06:15 AM 6/18/25 PT | 02:15 PM 6/18/25 GMT | 03:15 PM 6/18/25 CET</desc>
-</programme>
-<channel id="5e64e24b33d393a87fd1e57ef543551f">
-<display-name>World Championship U21 : Norway vs. Slovenia</display-name>
-</channel>
-<programme start="20250618141500 +0000" stop="20250618151500 +0000" channel="5e64e24b33d393a87fd1e57ef543551f">
-<title>10:15 PM 6/18/25 PHT | 09:15 AM 6/18/25 ET | 06:15 AM 6/18/25 PT | 02:15 PM 6/18/25 GMT | 03:15 PM 6/18/25 CET</title>
-<desc>10:15 PM 6/18/25 PHT | 09:15 AM 6/18/25 ET | 06:15 AM 6/18/25 PT | 02:15 PM 6/18/25 GMT | 03:15 PM 6/18/25 CET</desc>
-</programme>
-<channel id="916f312efb3be532ee2d5536203e33b0">
-<display-name>World Championship U21 : Poland U21 vs Uruguay U21</display-name>
-</channel>
-<programme start="20250618163000 +0000" stop="20250618173000 +0000" channel="916f312efb3be532ee2d5536203e33b0">
-<title>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</title>
-<desc>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</desc>
 </programme>
 <channel id="916f312efb3be532ee2d5536203e33b0">
 <display-name>World Championship U21 : Poland U21 vs Uruguay U21</display-name>
@@ -3423,13 +1575,6 @@
 <title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
 <desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
 </programme>
-<channel id="402dd37a91ca48c75f2f4fe3b636fb3a">
-<display-name>Live racing from Royal Ascot</display-name>
-</channel>
-<programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="402dd37a91ca48c75f2f4fe3b636fb3a">
-<title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
-<desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
-</programme>
 <channel id="cb295208e16637b89e08776e9512928b">
 <display-name>Live racing from Hamilton</display-name>
 </channel>
@@ -3443,13 +1588,6 @@
 <programme start="20250618170000 +0000" stop="20250618180000 +0000" channel="402dd37a91ca48c75f2f4fe3b636fb3a">
 <title>01:00 AM 6/19/25 PHT | 12:00 PM 6/18/25 ET | 09:00 AM 6/18/25 PT | 05:00 PM 6/18/25 GMT | 06:00 PM 6/18/25 CET</title>
 <desc>01:00 AM 6/19/25 PHT | 12:00 PM 6/18/25 ET | 09:00 AM 6/18/25 PT | 05:00 PM 6/18/25 GMT | 06:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="9827ce624aacfa92002bd718c7b9c213">
-<display-name>National Championship : Barcelos x FC Porto</display-name>
-</channel>
-<programme start="20250618200000 +0000" stop="20250618210000 +0000" channel="9827ce624aacfa92002bd718c7b9c213">
-<title>04:00 AM 6/19/25 PHT | 03:00 PM 6/18/25 ET | 12:00 PM 6/18/25 PT | 08:00 PM 6/18/25 GMT | 09:00 PM 6/18/25 CET</title>
-<desc>04:00 AM 6/19/25 PHT | 03:00 PM 6/18/25 ET | 12:00 PM 6/18/25 PT | 08:00 PM 6/18/25 GMT | 09:00 PM 6/18/25 CET</desc>
 </programme>
 <channel id="9827ce624aacfa92002bd718c7b9c213">
 <display-name>National Championship : Barcelos x FC Porto</display-name>
@@ -3472,75 +1610,12 @@
 <title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
 <desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
 </programme>
-<channel id="f2fedd14b97e4ca98aa8211d900e5b07">
-<display-name>State of Origin : Queensland Maroons vs. New South Wales</display-name>
-</channel>
-<programme start="20250618090500 +0000" stop="20250618100500 +0000" channel="f2fedd14b97e4ca98aa8211d900e5b07">
-<title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
-<desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="f2fedd14b97e4ca98aa8211d900e5b07">
-<display-name>State of Origin : Queensland Maroons vs. New South Wales</display-name>
-</channel>
-<programme start="20250618090500 +0000" stop="20250618100500 +0000" channel="f2fedd14b97e4ca98aa8211d900e5b07">
-<title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
-<desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="f2fedd14b97e4ca98aa8211d900e5b07">
-<display-name>State of Origin : Queensland Maroons vs. New South Wales</display-name>
-</channel>
-<programme start="20250618090500 +0000" stop="20250618100500 +0000" channel="f2fedd14b97e4ca98aa8211d900e5b07">
-<title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
-<desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="f2fedd14b97e4ca98aa8211d900e5b07">
-<display-name>State of Origin : Queensland Maroons vs. New South Wales</display-name>
-</channel>
-<programme start="20250618090500 +0000" stop="20250618100500 +0000" channel="f2fedd14b97e4ca98aa8211d900e5b07">
-<title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
-<desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
-</programme>
-<channel id="f2fedd14b97e4ca98aa8211d900e5b07">
-<display-name>State of Origin : Queensland Maroons vs. New South Wales</display-name>
-</channel>
-<programme start="20250618090500 +0000" stop="20250618100500 +0000" channel="f2fedd14b97e4ca98aa8211d900e5b07">
-<title>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</title>
-<desc>05:05 PM 6/18/25 PHT | 04:05 AM 6/18/25 ET | 01:05 AM 6/18/25 PT | 09:05 AM 6/18/25 GMT | 10:05 AM 6/18/25 CET</desc>
-</programme>
 <channel id="31e98d7371f7bbe364f65c63c228e1b5">
 <display-name>Nations League Women : Bulgaria vs. Italy</display-name>
 </channel>
 <programme start="20250618053000 +0000" stop="20250618063000 +0000" channel="31e98d7371f7bbe364f65c63c228e1b5">
 <title>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</title>
 <desc>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="31e98d7371f7bbe364f65c63c228e1b5">
-<display-name>Nations League Women : Bulgaria vs. Italy</display-name>
-</channel>
-<programme start="20250618053000 +0000" stop="20250618063000 +0000" channel="31e98d7371f7bbe364f65c63c228e1b5">
-<title>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</title>
-<desc>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="31e98d7371f7bbe364f65c63c228e1b5">
-<display-name>Nations League Women : Bulgaria vs. Italy</display-name>
-</channel>
-<programme start="20250618053000 +0000" stop="20250618063000 +0000" channel="31e98d7371f7bbe364f65c63c228e1b5">
-<title>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</title>
-<desc>01:30 PM 6/18/25 PHT | 12:30 AM 6/18/25 ET | 09:30 PM 6/17/25 PT | 05:30 AM 6/18/25 GMT | 06:30 AM 6/18/25 CET</desc>
-</programme>
-<channel id="d3ac41cb075a4bf8baa7164c890e96bd">
-<display-name>Nations League Women : Thailand vs. Japan</display-name>
-</channel>
-<programme start="20250618090000 +0000" stop="20250618100000 +0000" channel="d3ac41cb075a4bf8baa7164c890e96bd">
-<title>05:00 PM 6/18/25 PHT | 04:00 AM 6/18/25 ET | 01:00 AM 6/18/25 PT | 09:00 AM 6/18/25 GMT | 10:00 AM 6/18/25 CET</title>
-<desc>05:00 PM 6/18/25 PHT | 04:00 AM 6/18/25 ET | 01:00 AM 6/18/25 PT | 09:00 AM 6/18/25 GMT | 10:00 AM 6/18/25 CET</desc>
-</programme>
-<channel id="d3ac41cb075a4bf8baa7164c890e96bd">
-<display-name>Nations League Women : Thailand vs. Japan</display-name>
-</channel>
-<programme start="20250618090000 +0000" stop="20250618100000 +0000" channel="d3ac41cb075a4bf8baa7164c890e96bd">
-<title>05:00 PM 6/18/25 PHT | 04:00 AM 6/18/25 ET | 01:00 AM 6/18/25 PT | 09:00 AM 6/18/25 GMT | 10:00 AM 6/18/25 CET</title>
-<desc>05:00 PM 6/18/25 PHT | 04:00 AM 6/18/25 ET | 01:00 AM 6/18/25 PT | 09:00 AM 6/18/25 GMT | 10:00 AM 6/18/25 CET</desc>
 </programme>
 <channel id="d3ac41cb075a4bf8baa7164c890e96bd">
 <display-name>Nations League Women : Thailand vs. Japan</display-name>
@@ -3556,54 +1631,12 @@
 <title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
 <desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
 </programme>
-<channel id="d57754950f145043d98f6c3e564ee917">
-<display-name>Nations League Women : Republic of Korea vs. Canada</display-name>
-</channel>
-<programme start="20250618093000 +0000" stop="20250618103000 +0000" channel="d57754950f145043d98f6c3e564ee917">
-<title>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</title>
-<desc>05:30 PM 6/18/25 PHT | 04:30 AM 6/18/25 ET | 01:30 AM 6/18/25 PT | 09:30 AM 6/18/25 GMT | 10:30 AM 6/18/25 CET</desc>
-</programme>
 <channel id="c60173ba2b1cb73fb19e35caaca91ba6">
 <display-name>Nations League Women : France vs. Germany</display-name>
 </channel>
 <programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="c60173ba2b1cb73fb19e35caaca91ba6">
 <title>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</title>
 <desc>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c60173ba2b1cb73fb19e35caaca91ba6">
-<display-name>Nations League Women : France vs. Germany</display-name>
-</channel>
-<programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="c60173ba2b1cb73fb19e35caaca91ba6">
-<title>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</title>
-<desc>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="c60173ba2b1cb73fb19e35caaca91ba6">
-<display-name>Nations League Women : France vs. Germany</display-name>
-</channel>
-<programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="c60173ba2b1cb73fb19e35caaca91ba6">
-<title>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</title>
-<desc>07:00 PM 6/18/25 PHT | 06:00 AM 6/18/25 ET | 03:00 AM 6/18/25 PT | 11:00 AM 6/18/25 GMT | 12:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6923b51bfc80e5c0b8a2353e1ae9b105">
-<display-name>Nations League Women : Czech Republic vs. China</display-name>
-</channel>
-<programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="6923b51bfc80e5c0b8a2353e1ae9b105">
-<title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
-<desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6923b51bfc80e5c0b8a2353e1ae9b105">
-<display-name>Nations League Women : Czech Republic vs. China</display-name>
-</channel>
-<programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="6923b51bfc80e5c0b8a2353e1ae9b105">
-<title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
-<desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="6923b51bfc80e5c0b8a2353e1ae9b105">
-<display-name>Nations League Women : Czech Republic vs. China</display-name>
-</channel>
-<programme start="20250618123000 +0000" stop="20250618133000 +0000" channel="6923b51bfc80e5c0b8a2353e1ae9b105">
-<title>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</title>
-<desc>08:30 PM 6/18/25 PHT | 07:30 AM 6/18/25 ET | 04:30 AM 6/18/25 PT | 12:30 PM 6/18/25 GMT | 01:30 PM 6/18/25 CET</desc>
 </programme>
 <channel id="6923b51bfc80e5c0b8a2353e1ae9b105">
 <display-name>Nations League Women : Czech Republic vs. China</display-name>
@@ -3619,34 +1652,6 @@
 <title>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</title>
 <desc>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</desc>
 </programme>
-<channel id="385b23f0f8c2bc7fb053378ef83a501c">
-<display-name>Nations League Women : Belgium vs. Brazil</display-name>
-</channel>
-<programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="385b23f0f8c2bc7fb053378ef83a501c">
-<title>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</title>
-<desc>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="385b23f0f8c2bc7fb053378ef83a501c">
-<display-name>Nations League Women : Belgium vs. Brazil</display-name>
-</channel>
-<programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="385b23f0f8c2bc7fb053378ef83a501c">
-<title>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</title>
-<desc>09:00 PM 6/18/25 PHT | 08:00 AM 6/18/25 ET | 05:00 AM 6/18/25 PT | 01:00 PM 6/18/25 GMT | 02:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="90f881da6871bc86e8115f2ab28d1499">
-<display-name>Nations League Women : Netherlands vs. Poland</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="90f881da6871bc86e8115f2ab28d1499">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="90f881da6871bc86e8115f2ab28d1499">
-<display-name>Nations League Women : Netherlands vs. Poland</display-name>
-</channel>
-<programme start="20250618143000 +0000" stop="20250618153000 +0000" channel="90f881da6871bc86e8115f2ab28d1499">
-<title>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</title>
-<desc>10:30 PM 6/18/25 PHT | 09:30 AM 6/18/25 ET | 06:30 AM 6/18/25 PT | 02:30 PM 6/18/25 GMT | 03:30 PM 6/18/25 CET</desc>
-</programme>
 <channel id="90f881da6871bc86e8115f2ab28d1499">
 <display-name>Nations League Women : Netherlands vs. Poland</display-name>
 </channel>
@@ -3660,55 +1665,6 @@
 <programme start="20250618163000 +0000" stop="20250618173000 +0000" channel="693b19e37689cc6ce767ad25a41940e7">
 <title>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</title>
 <desc>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="693b19e37689cc6ce767ad25a41940e7">
-<display-name>Nations League Women : Dominican Republic vs. Turkiye</display-name>
-</channel>
-<programme start="20250618163000 +0000" stop="20250618173000 +0000" channel="693b19e37689cc6ce767ad25a41940e7">
-<title>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</title>
-<desc>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="693b19e37689cc6ce767ad25a41940e7">
-<display-name>Nations League Women : Dominican Republic vs. Turkiye</display-name>
-</channel>
-<programme start="20250618163000 +0000" stop="20250618173000 +0000" channel="693b19e37689cc6ce767ad25a41940e7">
-<title>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</title>
-<desc>12:30 AM 6/19/25 PHT | 11:30 AM 6/18/25 ET | 08:30 AM 6/18/25 PT | 04:30 PM 6/18/25 GMT | 05:30 PM 6/18/25 CET</desc>
-</programme>
-<channel id="fa45e31cc8b7a19a28b13539cb566672">
-<display-name>Nations League Women : Serbia vs. USA</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="fa45e31cc8b7a19a28b13539cb566672">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="fa45e31cc8b7a19a28b13539cb566672">
-<display-name>Nations League Women : Serbia vs. USA</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="fa45e31cc8b7a19a28b13539cb566672">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="fa45e31cc8b7a19a28b13539cb566672">
-<display-name>Nations League Women : Serbia vs. USA</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="fa45e31cc8b7a19a28b13539cb566672">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="fa45e31cc8b7a19a28b13539cb566672">
-<display-name>Nations League Women : Serbia vs. USA</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="fa45e31cc8b7a19a28b13539cb566672">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
-</programme>
-<channel id="fa45e31cc8b7a19a28b13539cb566672">
-<display-name>Nations League Women : Serbia vs. USA</display-name>
-</channel>
-<programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="fa45e31cc8b7a19a28b13539cb566672">
-<title>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</title>
-<desc>02:00 AM 6/19/25 PHT | 01:00 PM 6/18/25 ET | 10:00 AM 6/18/25 PT | 06:00 PM 6/18/25 GMT | 07:00 PM 6/18/25 CET</desc>
 </programme>
 <channel id="fa45e31cc8b7a19a28b13539cb566672">
 <display-name>Nations League Women : Serbia vs. USA</display-name>
